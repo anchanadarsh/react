@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+}
+
+.course_wrap{
+  display:flex;
+}
+
+.course_item{
+  flex-basis: 33%;
+  padding: 15px;
+}
+
+.course_item img{
+  max-width: 100%;
+  display: block;
+}
+
+.course_item h2{
+  font-size: 50px;
+  margin: 0;
+  padding: 15px;
+}
+
+.course_item p{
+  font-size: 26px;
+  padding: 0 15px;
+  margin: 0;
+}
